@@ -1,0 +1,21 @@
+<p></p><p><img
+src="https://raw.githubusercontent.com/stewid/SimInf/master/logo/logo.png"
+alt="SimInf"></p>
+
+<blockquote><p>A flexible and efficient framework for data-driven
+stochastic disease spread simulations</p></blockquote>
+
+Livestock movements are important for the spread of many infectious
+diseases between herds. The package provides an efficient and flexible
+framework for data-driven stochastic disease spread modelling that
+integrates within-herd infection dynamics as continuous-time Markov
+chains and livestock movements between herds as scheduled events. The
+core simulation solver is implemented in C and uses OpenMP (if
+available) to divide work over multiple processors. The package
+contains template models and can be extended with user defined models.
+
+# Authors
+
+- Pavol Bauer (Uppsala University, Sweden)
+- Stefan Engblom (Uppsala University, Sweden)
+- Stefan Widgren (National Veterinary Institute, Sweden) (Maintainer)

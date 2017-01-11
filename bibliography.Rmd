@@ -1,0 +1,29 @@
+---
+title: Bibliography
+---
+
+P. Bauer, S. Engblom, and S. Widgren (2016) Fast event-based
+epidemiological simulations on national scales. *International Journal
+of High Performance Computing Applications* 30(4),
+438-453. doi:10.1177/1094342016635723
+
+S. Widgren, S. Engblom, P. Bauer, J. Frössling, U. Emanuelson, and
+A. Lindberg (2016) Data-driven network modeling of disease
+transmission using complete population movement data: Spread of VTEC
+O157 in Swedish cattle. *Veterinary Research*
+47:81. doi:10.1186/s13567-016-0366-5
+
+S. Widgren (2016) Studies on verotoxigenic *Escherichia coli* O157 in
+Swedish cattle: From sampling to disease spread modelling. Doctoral
+thesis, Department of Clinical Sciences, Swedish University of
+Agricultural Sciences,
+Sweden. http://urn.kb.se/resolve?urn=urn:nbn:se:slu:epsilon-e-3764
+
+S. Widgren, P. Bauer, and S. Engblom (2016) SimInf: An R package for
+Data-driven Stochastic Disease Spread Simulations. The SimInf manual
+available via [arXiv](http://arxiv.org/abs/1605.01421).
+
+P. Bauer (2015) Parallelism and Efficiency in Discrete-Event
+Simulation. Licentiate thesis, Department of Information Technology,
+Uppsala University,
+Sweden. http://www.it.uu.se/research/publications/lic/2015-004/
