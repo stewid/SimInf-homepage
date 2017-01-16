@@ -27,3 +27,20 @@ P. Bauer (2015) Parallelism and Efficiency in Discrete-Event
 Simulation. Licentiate thesis, Department of Information Technology,
 Uppsala University,
 Sweden. http://www.it.uu.se/research/publications/lic/2015-004/
+
+## Talks
+
+Stefan Engblom, [Data-driven Epidemiological Simulations:
+Verotoxigenic E. coli
+O157](http://www.birs.ca/workshops/2016/16w5041/files/Stefan_Engblom_BIRS.pdf)
+at the workshop [Mathematical Biology for Understanding Emerging
+Infectious Diseases at the Human-Animal-Environment Interface: a "One
+Health"
+Approach"](http://www.birs.ca/events/2016/5-day-workshops/16w5041),
+November 20--25 2016 in Banff, Canada. The lecture was video recorded
+[mp4](http://videos.birs.ca/2016/16w5041/201611240925-Engblom.mp4).
+
+Stefan Widgren, [SimInf; an R-tool for data-driven modelling of
+disease spread and control](FIXME) at the 14th ISVEE Conference -
+International Symposium on Veterinary Epidemiology and Economics, 6
+November 2015 Merida, Mexico.
