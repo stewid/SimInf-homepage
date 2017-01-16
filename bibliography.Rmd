@@ -17,7 +17,7 @@ S. Widgren (2016) Studies on verotoxigenic *Escherichia coli* O157 in
 Swedish cattle: From sampling to disease spread modelling. Doctoral
 thesis, Department of Clinical Sciences, Swedish University of
 Agricultural Sciences,
-Sweden. http://urn.kb.se/resolve?urn=urn:nbn:se:slu:epsilon-e-3764
+Sweden. http://pub.epsilon.slu.se/13821/
 
 S. Widgren, P. Bauer, and S. Engblom (2016) SimInf: An R package for
 Data-driven Stochastic Disease Spread Simulations. The SimInf manual
