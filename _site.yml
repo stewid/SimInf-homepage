@@ -9,7 +9,7 @@ navbar:
       href: bibliography.html
   right:
     - icon: fa-envelope-o
-      href: mailto:stefan.widgren@gmail.com
+      href: mailto:stefan.widgren@sva.se
     - icon: fa-github
       href: https://github.com/stewid/SimInf
 output:
