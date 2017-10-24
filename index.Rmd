@@ -18,4 +18,5 @@ contains template models and can be extended with user defined models.
 
 - Pavol Bauer (Uppsala University, Sweden)
 - Stefan Engblom (Uppsala University, Sweden)
-- Stefan Widgren (National Veterinary Institute, Sweden) (Maintainer)
+- Stefan Widgren (National Veterinary Institute and Uppsala
+  University, Sweden) (Maintainer)
