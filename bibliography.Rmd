@@ -2,6 +2,12 @@
 title: Bibliography
 ---
 
+S. Engblom, S. Widgren (2017) Chapter 11 - Data-Driven Computational
+Disease Spread Modeling: From Measurement to Parametrization and
+Control, Editor(s): Arni S.R. Srinivasa Rao, Saumyadipta Pyne,
+C.R. Rao, In Handbook of Statistics, Elsevier, Volume 36, Pages
+305--328. [DOI: 10.1016/bs.host.2017.05.005](https://doi.org/10.1016/bs.host.2017.05.005)
+
 P. Bauer, S. Engblom, and S. Widgren (2016) Fast event-based
 epidemiological simulations on national scales. *International Journal
 of High Performance Computing Applications* 30(4),
