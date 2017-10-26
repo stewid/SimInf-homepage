@@ -50,3 +50,10 @@ Stefan Widgren, *"SimInf; an R-tool for data-driven modelling of
 disease spread and control"* at the 14th ISVEE Conference -
 International Symposium on Veterinary Epidemiology and Economics, 6
 November 2015 Merida, Mexico.
+
+## Workshops
+
+Stefan Widgren and Thomas Rosendal, *"Infectious disease modelling
+with SimInf"* at the 2017 Society for Veterinary Epidemiology and
+Preventive Medicine ([SVEPM](http://www.svepm2017.org/programme/))
+annual conference, 29 March 2017 Inverness, Scotland.
