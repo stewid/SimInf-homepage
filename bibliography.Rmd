@@ -64,3 +64,11 @@ Stefan Widgren and Thomas Rosendal, *"Infectious disease modelling
 with SimInf"* at the 2017 Society for Veterinary Epidemiology and
 Preventive Medicine ([SVEPM](http://www.svepm2017.org/programme/))
 annual conference, 29 March 2017 Inverness, Scotland.
+
+## Posters
+
+Robin Eriksson, *"Towards Bayesian Parametrization of national scale
+epidemics"* at Workshop IV: Uncertainty Quantification for Stochastic
+Systems and Applications. Part of the Long Program Complex
+High-Dimensional Energy Landscapes. 13-17 November 2017. IPAM at UCLA,
+Los Angeles, US.
