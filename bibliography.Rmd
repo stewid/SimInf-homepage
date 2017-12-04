@@ -51,6 +51,13 @@ disease spread and control"* at the 14th ISVEE Conference -
 International Symposium on Veterinary Epidemiology and Economics, 6
 November 2015 Merida, Mexico.
 
+Stefan Widgren, *"Efficient data-driven simulation of infection spread
+in the Swedish cattle population"* at the minisymposium ["Data-driven
+modelling of
+epidemics"](http://user.it.uu.se/~stefane/formalia/ProgramDDE.pdf) at
+the 9th European Conference on Mathematical and Theoretical Biology
+(ECMTB) 6 June 2014, Gothenburg, Sweden.
+
 ## Workshops
 
 Stefan Widgren and Thomas Rosendal, *"Infectious disease modelling
