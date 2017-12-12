@@ -2,6 +2,11 @@
 title: Bibliography
 ---
 
+P. Bauer (2017) Parallelism in Event-Based Computations with
+Applications in Biology. Doctoral thesis, Department of Information
+Technology, Uppsala University,
+Sweden. http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-332009
+
 S. Engblom, S. Widgren (2017) Chapter 11 - Data-Driven Computational
 Disease Spread Modeling: From Measurement to Parametrization and
 Control, Editor(s): Arni S.R. Srinivasa Rao, Saumyadipta Pyne,
