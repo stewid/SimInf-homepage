@@ -41,7 +41,7 @@ Sweden. http://www.it.uu.se/research/publications/lic/2015-004/
 
 ## Talks
 
-Stefan Engblom, [Data-driven Epidemiological Simulations:
+**S. Engblom**, [Data-driven Epidemiological Simulations:
 Verotoxigenic E. coli
 O157](http://www.birs.ca/workshops/2016/16w5041/files/Stefan_Engblom_BIRS.pdf)
 at the workshop [Mathematical Biology for Understanding Emerging
@@ -51,14 +51,14 @@ Approach"](http://www.birs.ca/events/2016/5-day-workshops/16w5041),
 November 20--25 2016 in Banff, Canada. The lecture was video recorded
 [mp4](http://videos.birs.ca/2016/16w5041/201611240925-Engblom.mp4).
 
-Stefan Widgren, *"SimInf; an R-tool for data-driven modelling of
-disease spread and control"* at the 14th ISVEE Conference -
-International Symposium on Veterinary Epidemiology and Economics, 6
-November 2015 Merida, Mexico.
+**S. Widgren**, P. Bauer, and S. Engblom, *"SimInf; an R-tool for
+data-driven modelling of disease spread and control"* at the 14th
+ISVEE Conference - International Symposium on Veterinary Epidemiology
+and Economics, 6 November 2015 Merida, Mexico.
 
-Stefan Widgren, *"Efficient data-driven simulation of infection spread
-in the Swedish cattle population"* at the minisymposium ["Data-driven
-modelling of
+**S. Widgren**, P. Bauer, and S. Engblom, *"Efficient data-driven
+simulation of infection spread in the Swedish cattle population"* at
+the minisymposium ["Data-driven modelling of
 epidemics"](http://user.it.uu.se/~stefane/formalia/ProgramDDE.pdf) at
 the 9th European Conference on Mathematical and Theoretical Biology
 (ECMTB) 6 June 2014, Gothenburg, Sweden.
