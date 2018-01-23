@@ -41,6 +41,13 @@ Sweden. http://www.it.uu.se/research/publications/lic/2015-004/
 
 ## Talks
 
+**S. Widgren**, S. Engblom, U Emanuelson,
+  A. Lindberg,*"Spatio-temporal modelling of VTEC O157 in cattle in
+  Sweden: Exploring options for control"* at [Modelling in Animal
+  Health conference - ModAH
+  2017](https://workshop.inra.fr/modah2017/), 14--16 June 2017,
+  Nantes, France.
+
 **S. Engblom**, [Data-driven Epidemiological Simulations:
 Verotoxigenic E. coli
 O157](http://www.birs.ca/workshops/2016/16w5041/files/Stefan_Engblom_BIRS.pdf)
