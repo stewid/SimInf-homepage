@@ -2,6 +2,11 @@
 title: Bibliography
 ---
 
+R. Eriksson, S. Engblom, S. Widgren (2018) Towards Bayesian
+Parametrization of national scale epidemics. MATHMOD 2018 Extended
+Abstract Volume​, ARGESIM Report 55 (ISBN 978-3-901608-91-9), p 65-66.
+[DOI: 10.11128/arep.55.a55245](https://doi.org/10.11128/arep.55.a55245)
+
 P. Bauer (2017) Parallelism in Event-Based Computations with
 Applications in Biology. Doctoral thesis, Department of Information
 Technology, Uppsala University,
