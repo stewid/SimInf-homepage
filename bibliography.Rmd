@@ -53,6 +53,10 @@ Sweden. http://www.it.uu.se/research/publications/lic/2015-004/
   2017](https://workshop.inra.fr/modah2017/), 14--16 June 2017,
   Nantes, France.
 
+**S. Engblom**, [Data-driven computational
+  Epidemics](http://www.maths.lu.se/kalendarium/?event=data-driven-computational-epidemics),
+  6 March 2017, Lund, Sweden.
+
 **S. Engblom**, [Data-driven Epidemiological Simulations:
 Verotoxigenic E. coli
 O157](http://www.birs.ca/workshops/2016/16w5041/files/Stefan_Engblom_BIRS.pdf)
