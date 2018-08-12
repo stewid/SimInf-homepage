@@ -2,6 +2,12 @@
 title: Bibliography
 ---
 
+S. Widgren, S. Engblom, U. Emanuelson and A. Lindberg (2018)
+Spatio-temporal modelling of verotoxigenic *Escherichia coli* O157 in
+cattle in Sweden: Exploring options for control. *Veterinary Research*
+49:78.  [DOI:
+10.1186/s13567-018-0574-2](https://doi.org/10.1186/s13567-018-0574-2)
+
 R. Eriksson, S. Engblom, S. Widgren (2018) Towards Bayesian
 Parametrization of national scale epidemics. MATHMOD 2018 Extended
 Abstract Volume​, ARGESIM Report 55 (ISBN 978-3-901608-91-9), p 65-66.
