@@ -2,40 +2,21 @@
 title: Installation
 ---
 
-To install the latest release on CRAN
+You can install the released version of `SimInf` from
+[CRAN](https://CRAN.R-project.org/package=SimInf)
 
-```{r eval=FALSE}
+```{r eval = FALSE}
 install.packages("SimInf")
 ```
 
-To install the development version of `SimInf`, it's easiest to use
-the devtools package:
+or use the `remotes` package to install the development version from
+[GitHub](https://github.com/stewid/SimInf)
 
-```{r eval=FALSE}
-install.packages("devtools")
-library("devtools")
+```{r eval = FALSE}
+library(remotes)
 install_github("stewid/SimInf")
 ```
 
-## Dependencies
-
-### On a Debian based system
-
-Before installing `SimInf` you need to install [The GNU Scientific
-Library](https://www.gnu.org/software/gsl/) (GSL).
-
-```
-apt-get install libgsl0-dev
-```
-
-You may need to do:
-
-```
-sudo apt-get install libgsl0-dev
-```
-
-### On a Windows machine
-
-To install the development version of `SimInf` you first need to
-download and install
-[Rtools](https://cran.r-project.org/bin/windows/Rtools/)
+We refer to section 3.1 in the
+[vignette](https://CRAN.R-project.org/web/packages/SimInf/vignettes/SimInf.pdf)
+for detailed installation instructions.
