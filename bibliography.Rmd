@@ -54,6 +54,11 @@ Sweden. http://www.it.uu.se/research/publications/lic/2015-004/
 
 **S. Widgren**, S. Engblom, U Emanuelson,
   A. Lindberg,*"Spatio-temporal modelling of VTEC O157 in cattle in
+  Sweden: Exploring options for control"*, 13 December 2018, Glasgow,
+  Scotland.
+
+**S. Widgren**, S. Engblom, U Emanuelson,
+  A. Lindberg,*"Spatio-temporal modelling of VTEC O157 in cattle in
   Sweden: Exploring options for control"* at [Modelling in Animal
   Health conference - ModAH
   2017](https://workshop.inra.fr/modah2017/), 14--16 June 2017,
