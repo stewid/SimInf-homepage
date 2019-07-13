@@ -92,6 +92,10 @@ the 9th European Conference on Mathematical and Theoretical Biology
 
 ## Workshops
 
+Stefan Widgren and Robin Eriksson, *"Infectious disease modelling with
+SimInf"* at the National Veterinary Institute, Uppsala, Sweden. 9th
+May 2019.
+
 Stefan Widgren, *"Infectious disease modelling with SimInf"* at the
 Institute of Biodiversity, Animal Health & Comparative Medicine,
 University of Glasgow, Scotland. Friday 14th December 2018.
@@ -99,7 +103,7 @@ University of Glasgow, Scotland. Friday 14th December 2018.
 Stefan Widgren and Thomas Rosendal, *"Infectious disease modelling
 with SimInf"* at the 2017 Society for Veterinary Epidemiology and
 Preventive Medicine ([SVEPM](http://www.svepm2017.org/programme/))
-annual conference, 29 March 2017 Inverness, Scotland.
+annual conference, 29th March 2017 Inverness, Scotland.
 
 ## Posters
 
