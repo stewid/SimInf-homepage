@@ -52,17 +52,22 @@ Sweden. http://www.it.uu.se/research/publications/lic/2015-004/
 
 ## Talks
 
-**S. Widgren**, S. Engblom, U Emanuelson,
-  A. Lindberg,*"Spatio-temporal modelling of VTEC O157 in cattle in
-  Sweden: Exploring options for control"*, 13 December 2018, Glasgow,
+**S. Widgren**, T. Rosendal, S. Engblom, K. Ståhl, [SimInf for
+  spatio-temporal data-driven modeling of African swine fever in
+  Swedish wildboar](https://doi.org/10.3389/conf.fvets.2019.05.00002),
+  at [GeoVet 2019](https://geovet2019.ucdavis.edu/index.html), 8--10
+  October 2019, Davis, Ca, USA.
+
+**S. Widgren**, S. Engblom, U Emanuelson, A. Lindberg,
+  *"Spatio-temporal modelling of VTEC O157 in cattle in Sweden:
+  Exploring options for control"*, 13 December 2018, Glasgow,
   Scotland.
 
-**S. Widgren**, S. Engblom, U Emanuelson,
-  A. Lindberg,*"Spatio-temporal modelling of VTEC O157 in cattle in
-  Sweden: Exploring options for control"* at [Modelling in Animal
-  Health conference - ModAH
-  2017](https://workshop.inra.fr/modah2017/), 14--16 June 2017,
-  Nantes, France.
+**S. Widgren**, S. Engblom, U Emanuelson, A. Lindberg,
+  *"Spatio-temporal modelling of VTEC O157 in cattle in Sweden:
+  Exploring options for control"* at [Modelling in Animal Health
+  conference - ModAH 2017](https://workshop.inra.fr/modah2017/),
+  14--16 June 2017, Nantes, France.
 
 **S. Engblom**, [Data-driven computational
   Epidemics](http://www.maths.lu.se/kalendarium/?event=data-driven-computational-epidemics),
