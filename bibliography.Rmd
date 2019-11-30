@@ -2,6 +2,15 @@
 title: Bibliography
 ---
 
+S. Widgren, P. Bauer, R. Eriksson, S. Engblom (2019) SimInf: An R
+Package for Data-Driven Stochastic Disease Spread
+Simulations. *Journal of Statistical Software*, 91(12), 1--42. [DOI:
+10.18637/jss.v091.i12](https://doi.org/10.18637/jss.v091.i12)
+
+S. Engblom, R. Eriksson, S. Widgren (2019) Bayesian epidemiological
+modeling over high-resolution network data. arXiv preprint
+[arXiv:1910.11720](https://arxiv.org/abs/1910.11720).
+
 S. Widgren, S. Engblom, U. Emanuelson and A. Lindberg (2018)
 Spatio-temporal modelling of verotoxigenic *Escherichia coli* O157 in
 cattle in Sweden: Exploring options for control. *Veterinary Research*
