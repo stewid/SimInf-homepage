@@ -3,10 +3,14 @@ exclude: ["Makefile", "README.html"]
 navbar:
   title: "SimInf"
   left:
-    - text: "Installation"
-      href: installation.html
     - text: "Bibliography"
+      icon: fa-file-text-o
       href: bibliography.html
+    - text: "Tutorials"
+      icon: fa-gear
+      menu:
+        - text: "Installation"
+          href: installation.html
   right:
     - icon: fa-envelope-o
       href: mailto:stefan.widgren@sva.se
