@@ -1,22 +1,65 @@
 ---
 title: Installation
+author: Stefan Widgren [![ORCID iD](https://orcid.org/sites/default/files/images/orcid_16x16.gif)](https://orcid.org/0000-0001-5745-2284)
 ---
 
-You can install the released version of `SimInf` from
-[CRAN](https://CRAN.R-project.org/package=SimInf)
+The most recent stable version of **SimInf** is available from the
+Comprehensive R Archive Network (CRAN) at
+https://CRAN.R-project.org/package=SimInf and may, depending on your
+platform, be available in source form or compiled binary form.  The
+development version is available on GitHub at
+https://github.com/stewid/SimInf.  A binary form of **SimInf** for
+macOS or Windows can be installed directly from CRAN.  However, if you
+install **SimInf** from source (from CRAN or a \code{.tar.gz} file),
+the installation process requires a C compiler, and that the GNU
+Scientific Library (GSL) is installed on your system and is on the
+path.  Note that GSL (https://www.gnu.org/software/gsl/) is not an R
+add-on package, but needs to be installed separately, for example,
+from a terminal using:
+
+- `sudo apt-get install libgsl0-dev` on Debian and Ubuntu
+- `sudo yum install gsl-devel` on Fedora, CentOS or RHEL
+- `brew install gsl` on macOS with the Homebrew package manager
+
+On Windows, the GSL files are downloaded, if needed, from
+https://github.com/rwinlib/gsl during the installation of **SimInf**.
+Furthermore, when you install **SimInf** from source, depending on
+features of the compiler, the package is compiled with support for
+OpenMP.  To find out more about installing R add-on packages in
+general, the *R Installation and Administration*
+(https://cran.r-project.org/manuals.html) manual describes the process
+in detail.
+
+## Install the latest stable release on CRAN
+
+Run the following to install the released version of `SimInf` from
+CRAN (https://CRAN.R-project.org/package=SimInf).
 
 ```{r eval = FALSE}
 install.packages("SimInf")
 ```
 
-or use the `remotes` package to install the development version from
-[GitHub](https://github.com/stewid/SimInf)
+## Install the development version from GitHub
+
+Use the `remotes` package to install the development version from
+GitHub (https://github.com/stewid/SimInf).
 
 ```{r eval = FALSE}
 library(remotes)
 install_github("stewid/SimInf")
 ```
 
-We refer to section 3.1 in the
-[vignette](https://CRAN.R-project.org/web/packages/SimInf/vignettes/SimInf.pdf)
-for detailed installation instructions.
+---
+
+This work is licensed under a <a rel="license"
+href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons
+Attribution-NonCommercial 4.0 International License</a>. Please share
+and remix noncommercially, mentioning its origin.
+
+<a rel="license"
+href="http://creativecommons.org/licenses/by-nc/4.0/"><img
+alt="Creative Commons License" style="border-width:0"
+src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />
+
+This document was produced using **SimInf** version `r packageVersion("SimInf")`
+and **R** version `r getRversion()`.
