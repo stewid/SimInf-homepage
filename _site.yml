@@ -11,6 +11,10 @@ navbar:
       menu:
         - text: "Installation"
           href: installation.html
+        - text: "---------"
+        - text: "Model building with 'mparse'"
+        - text: "Getting started"
+          href: mparse-getting-started.html
   right:
     - icon: fa-envelope-o
       href: mailto:stefan.widgren@sva.se

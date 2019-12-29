@@ -1,0 +1,121 @@
+---
+title: Getting started with `mparse`
+author: Stefan Widgren [![ORCID iD](https://orcid.org/sites/default/files/images/orcid_16x16.gif)](https://orcid.org/0000-0001-5745-2284)
+---
+
+## Introduction
+
+This tutorial aims to help you get started to build and run custom
+models using the model building functionality `mparse()` in
+**SimInf**.  I assume you have already installed R
+(https://www.r-project.org) and an editor, for example, Emacs Speaks
+Statistics (ESS) (https://ess.r-project.org/) or the RStudio IDE
+(https://www.rstudio.com).  **SimInf** uses C code internally to
+ensure high performance of the simulator and the `mparse` function
+automatically generates the necessary C code for a model and you do
+not need to know any C programming in order to use it.  However,
+`mparse()` requires that a C compiler is installed in order to
+transform the generated C code into an executable program that is used
+internally in **SimInf**.  We will return to the details later.
+
+## Software installation instructions
+
+#### Windows
+
+The C compiler toolchain on Windows is called `Rtools`
+(https://cran.r-project.org/bin/windows/Rtools/). Download
+`Rtools35.exe` (assuming you are using a recent/latest version of R)
+and then run the installer. In my experience, using the default
+options during the installation works fine.  After installing
+`Rtools`, you need to add the path `C:/Rtools/bin` (assuming you
+installed to the default directory) to the system `PATH` environment
+variable. One way to do that is to update the `PATH` variable in the
+System Properties dialog box. Another way is to specify the path to
+`Rtools` when R starts. During
+[startup](https://stat.ethz.ch/R-manual/R-devel/library/base/html/Startup.html),
+R reads some files to load user-specific settings and one such file is
+`.Rprofile` in your home directory. If you run the following in your R
+terminal, where the `~` (tilde) character is a shorthand for your home
+directory, then the `.Rprofile` file is created with the path to
+`Rtools`.
+
+```{r, eval = FALSE}
+filename <- "~/.Rprofile"
+if (file.exists(filename)) {
+    ## Do not overwrite the file if it exists.
+    stop("The '~/.Rprofile' already exists")
+} else {
+    path <- "Sys.setenv(PATH = paste0('C:/Rtools/bin;', Sys.getenv('PATH')))"
+    writeLines(text = path, con = filename)
+}
+```
+
+#### macOS
+
+The C compiler toolchain on macOS is called `Xcode` and can be
+installed via the App Store or downloaded from `developer.apple.com`
+(https://developer.apple.com/download/).
+
+#### Linux
+
+The C compiler toolchain is installed on your system if you have
+successfully installed **SimInf**.
+
+## Test the installation
+
+Now, let us check that we can build and run a user-defined
+model. First, we load **SimInf** in R using the following command.
+
+```{r, warnings = FALSE, message = FALSE}
+library(SimInf)
+```
+
+We will return to the details later, for now we just want to check
+that the installation works and that we can use the model parser to
+create, for example, a Susceptible-Infected-Recovered (SIR) model. Let
+`beta` denote the transmission rate, `gamma` the recovery rate, `u0`
+the initial population and `tspan` the time span to simulate a
+trajectory.
+
+```{r}
+model  <- mparse(transitions = c("S -> beta*S*I/(S+I+R) -> I",
+                                 "I -> gamma*I -> R"),
+                 compartments = c("S", "I", "R"),
+                 gdata = c(beta = 0.16, gamma = 0.077),
+                 u0 = data.frame(S = 100, I = 1, R = 0),
+                 tspan = 1:100)
+```
+
+Now, you can type `model` or `summary(model)` to display some basic
+model information.
+
+```{r}
+model
+```
+
+Let us now check if it works to run the `SIR` model. For
+reproducibility, we first call the `set.seed()` function.
+
+```{r test-installation, fig.width = 10, fig.height = 5}
+set.seed(22)
+result <- run(model)
+plot(result)
+```
+
+The result from one realisation of the SIR model if the simulation
+worked.
+
+---
+
+This work is licensed under a <a rel="license"
+href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons
+Attribution-NonCommercial 4.0 International License</a>. Please share
+and remix noncommercially, mentioning its origin.
+
+<a rel="license"
+href="http://creativecommons.org/licenses/by-nc/4.0/"><img
+alt="Creative Commons License" style="border-width:0"
+src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />
+
+This document was produced using **SimInf** version `r packageVersion("SimInf")`
+and R version `r getRversion()`.
