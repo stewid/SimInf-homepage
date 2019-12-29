@@ -15,8 +15,9 @@ ensure high performance of the simulator and the `mparse` function
 automatically generates the necessary C code for a model and you do
 not need to know any C programming in order to use it.  However,
 `mparse()` requires that a C compiler is installed in order to
-transform the generated C code into an executable program that is used
-internally in **SimInf**.  We will return to the details later.
+transform the generated C code into a module that is dynamically
+loaded and used internally in **SimInf**.  We will return to the
+details later.
 
 ## Software installation instructions
 
