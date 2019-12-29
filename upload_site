@@ -1,0 +1,6 @@
+#!/bin/bash
+
+sshpass -p $SIMINF_SITE_PASSWORD sftp $SIMINF_SITE_USER@$SIMINF_SITE_URL <<EOF
+mput _site/*.html
+exit
+EOF
