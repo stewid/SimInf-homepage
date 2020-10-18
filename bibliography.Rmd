@@ -2,14 +2,27 @@
 title: Bibliography
 ---
 
+T. Rosendal, S. Widgren, K. Ståhl, J. Frössling (2020) Modelling
+spread and surveillance of *Mycobacterium avium*
+subsp. *paratuberculosis* in the Swedish cattle trade
+network. *Preventive Veterinary Medicine*, 183. [DOI:
+10.1016/j.prevetmed.2020.105152](https://doi.org/10.1016/j.prevetmed.2020.105152)
+
+M. Salines, M. Andraud, N. Rose, S. Widgren (2020) A between-herd
+data-driven stochastic model to explore the spatio-temporal spread of
+hepatitis E virus in the French pig production network. *PloS ONE*, 15
+(7), e0230257. [DOI:
+10.1371/journal.pone.0230257](https://doi.org/10.1371/journal.pone.0230257)
+
+S. Engblom, R. Eriksson, S. Widgren (2020) Bayesian epidemiological
+modeling over high-resolution network data. *Epidemics*, 32:100399.
+[DOI:
+10.1016/j.epidem.2020.100399](https://doi.org/10.1016/j.epidem.2020.100399)
+
 S. Widgren, P. Bauer, R. Eriksson, S. Engblom (2019) SimInf: An R
 Package for Data-Driven Stochastic Disease Spread
 Simulations. *Journal of Statistical Software*, 91(12), 1--42. [DOI:
 10.18637/jss.v091.i12](https://doi.org/10.18637/jss.v091.i12)
-
-S. Engblom, R. Eriksson, S. Widgren (2019) Bayesian epidemiological
-modeling over high-resolution network data. arXiv preprint
-[arXiv:1910.11720](https://arxiv.org/abs/1910.11720).
 
 S. Widgren, S. Engblom, U. Emanuelson and A. Lindberg (2018)
 Spatio-temporal modelling of verotoxigenic *Escherichia coli* O157 in
